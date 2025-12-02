@@ -1,9 +1,0 @@
-C:\projects\forex-trading-platform\forex-consumer\forex-consumer\src\main\java\com\forex\consumer\config\KafkaConsumerConfig.java
-C:\projects\forex-trading-platform\forex-consumer\forex-consumer\src\main\java\com\forex\consumer\consumer\ForexKafkaConsumer.java
-C:\projects\forex-trading-platform\forex-consumer\forex-consumer\src\main\java\com\forex\consumer\dto\ForexPriceDto.java
-C:\projects\forex-trading-platform\forex-consumer\forex-consumer\src\main\java\com\forex\consumer\entity\CurrencyPairEntity.java
-C:\projects\forex-trading-platform\forex-consumer\forex-consumer\src\main\java\com\forex\consumer\entity\ForexPriceEntity.java
-C:\projects\forex-trading-platform\forex-consumer\forex-consumer\src\main\java\com\forex\consumer\ForexConsumerApplication.java
-C:\projects\forex-trading-platform\forex-consumer\forex-consumer\src\main\java\com\forex\consumer\repository\CurrencyPairRepository.java
-C:\projects\forex-trading-platform\forex-consumer\forex-consumer\src\main\java\com\forex\consumer\repository\ForexPriceRepository.java
-C:\projects\forex-trading-platform\forex-consumer\forex-consumer\src\main\java\com\forex\consumer\service\ForexPriceService.java
